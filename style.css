@@ -7,7 +7,8 @@ h1 {
     }
     h2 {
     font-family: 'IM Fell English SC', serif;
-    font-size: 2rem; 
+    font-size: 2rem;
+   
     } 
     
     p {
@@ -32,7 +33,47 @@ h1 {
         font-family: Arial, Helvetica, sans-serif;
         background-color: rgb(228, 207, 180); ;
       }
+.bild1 {
+    float: left;
+    height: 50vh;
+    width: 50vh;
+    border-color: #A8998C;
+    margin: 1rem;
+    border: groove;
+    border-radius: 10%;
+    border-width: 5px;
+}
+.bild2 {
+    float: left;
+    height: 50vh;
+    width: 50vh;
+    border-color: #A8998C;
+    margin: 1rem;
+    border: groove;
+    border-radius: 10%;
+    border-width: 5px;
+}
+.bild3 {
+    float: left;
+    height: 50vh;
+    width: 50vh;
+    border-color: #A8998C;
+    margin: 1rem;
+    border: groove;
+    border-radius: 10%;
+    border-width: 5px;
+}
+.bild4 {
+    float: left;
+    height: 50vh;
+    width: 50vh;
+    border-color: #A8998C;
+    margin: 1rem;
+    border: groove;
+    border-radius: 10%;
+    border-width: 5px;
+}
       .footer{
           text-align: center;
-          
+
       }
