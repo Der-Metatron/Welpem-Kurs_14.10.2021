@@ -1,23 +1,38 @@
 h1 {
-    font-size: 3rem;
+    font-size: 4rem;
     text-align: center;
     text-decoration: underline;
+    font-weight: bold;
     font-family: 'IM Fell English SC', serif; 
     }
     h2 {
-    font-family: 'IM Fell English SC', serif; 
+    font-family: 'IM Fell English SC', serif;
+    font-size: 2rem; 
     } 
     
     p {
-    font-family: 'Raleway', sans-serif; 
+    font-family: 'Raleway', sans-serif;
+    font-weight: bold; 
+    font-size: 1,5rem;
     }
-  #banner {
-    margin: auto;
-    display: flex;
-    height: 400px;
-    width: 80%; /* Mindesthöhe */
-    } 
+    .welpenbanner {
+        background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(Img/welpenbanner.jpg);
+        height: 50%;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        position: relative;
+      }
+    
 
-    body{
-        background-color: rgb(228, 207, 180);
-    }
+    body, html {
+        color: #5C4531; 
+        height: 100%;
+        margin: 1rem;
+        font-family: Arial, Helvetica, sans-serif;
+        background-color: rgb(228, 207, 180); ;
+      }
+      .footer{
+          text-align: center;
+          
+      }
