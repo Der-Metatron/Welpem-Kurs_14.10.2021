@@ -1,0 +1,23 @@
+h1 {
+    font-size: 3rem;
+    text-align: center;
+    text-decoration: underline;
+    font-family: 'IM Fell English SC', serif; 
+    }
+    h2 {
+    font-family: 'IM Fell English SC', serif; 
+    } 
+    
+    p {
+    font-family: 'Raleway', sans-serif; 
+    }
+  #banner {
+    margin: auto;
+    display: flex;
+    height: 400px;
+    width: 80%; /* Mindesthöhe */
+    } 
+
+    body{
+        background-color: rgb(228, 207, 180);
+    }
